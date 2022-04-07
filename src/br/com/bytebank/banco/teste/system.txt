@@ -1,0 +1,16 @@
+O que é?
+Visibilidade? Acesso?
+Pacote?
+
+public class System {
+    public static ???? out;
+}
+-----------
+        System.out.println("Alura");
+
+System
+    - classe,java.lang,acesso publico (public)
+out
+    - atributo, publico, referencia, static
+println
+    - metodo, publico, nao static, sobrecarga(overloading), nao joga excessoes do tipo checked
